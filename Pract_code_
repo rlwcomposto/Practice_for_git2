@@ -1,0 +1,9 @@
+# Practing sharing coding
+# Helo
+a = 45
+b = 5
+c = a + b
+
+# Combine variable and text suing f string, put variable in curly brackets
+print(f"Answer: {c}")
+
